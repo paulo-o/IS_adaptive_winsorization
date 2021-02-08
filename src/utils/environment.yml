@@ -1,0 +1,62 @@
+name: is
+channels:
+  - conda-forge
+  - intel
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h88c068d_5
+  - certifi=2020.11.8=py37h89c1867_0
+  - cycler=0.10.0=py_2
+  - descartes=1.1.0=py_4
+  - freetype=2.10.4=h7ca028e_0
+  - icc_rt=2020.3=intel_304
+  - intel-openmp=2020.3=intel_304
+  - intelpython=2020.4=0
+  - jpeg=9d=h36c2ea0_0
+  - kiwisolver=1.3.1=py37hc928c03_0
+  - libffi=3.3=h07ac4c1_12
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libpng=1.6.37=h21135ba_2
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - libtiff=4.1.0=h4f3a223_6
+  - libwebp-base=1.1.0=h36c2ea0_3
+  - lz4-c=1.9.2=he1b5a44_3
+  - matplotlib-base=3.3.2=py37h817c723_0
+  - mizani=0.7.2=pyhd8ed1ab_0
+  - mkl=2020.4=intel_304
+  - mkl-service=2.3.0=py37h43c2ffe_6
+  - mkl_fft=1.2.0=py37h3aece79_1
+  - mkl_random=1.2.0=py37h0107b67_1
+  - mkl_umath=0.0.1=py37h0dca2b4_1
+  - numpy=1.18.5=py37hafab738_19
+  - numpy-base=1.18.5=py37hf11705a_19
+  - olefile=0.46=pyh9f0ad1d_1
+  - openssl=1.1.1g=hb8a9d29_2
+  - palettable=3.3.0=py_0
+  - pandas=1.1.2=py37hd564b9c_0
+  - patsy=0.5.1=py_0
+  - pillow=6.2.1=py37hd70f55b_1
+  - pip=20.2.2=py37h01fe7e7_1
+  - plotnine=0.7.1=py_0
+  - pyparsing=2.4.7=pyh9f0ad1d_0
+  - python=3.7.7=h7f0eb4e_22
+  - python-dateutil=2.8.1=py37hd8ca5e9_2
+  - python_abi=3.7=1_cp37m
+  - pytz=2020.1=py37hb3272ac_1
+  - scipy=1.4.1=py37h24bd9e7_10
+  - setuptools=49.6.0=py37hf90b819_1
+  - six=1.15.0=py37h240e974_1
+  - sqlite=3.33.0=h88c068d_1
+  - statsmodels=0.12.1=py37ha21ca33_1
+  - tbb=2020.3=intel_304
+  - tbb4py=2020.3=py37_intel_1
+  - tcl=8.6.9=h14c3975_27
+  - tk=8.6.9=29
+  - tornado=6.1=py37h4abf009_0
+  - tqdm=4.39.0=py37hd0026f7_4
+  - wheel=0.35.1=py37ha0f1a1d_1
+  - xz=5.2.5=hcc43529_1
+  - zlib=1.2.11.1=hb8a9d29_2
+  - zstd=1.4.5=h6597ccf_2
+prefix: /home/pauloo/.conda/envs/is
+
